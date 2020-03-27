@@ -1,5 +1,0 @@
-This API enables cross-origin requests to anywhere.
-
-Demo          :   https://access-control-allow-origin.github.io/demo.html
-Source code   :   https://github.com/access-control-allow-origin/access-control-allow-origin.github.io
-
